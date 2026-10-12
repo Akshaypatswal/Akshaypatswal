@@ -1,4 +1,13 @@
+# Hi 👋, I'm Akshay Kumar
 
+**B.Tech CSE Student | Aspiring Software Developer**
+
+I'm a Computer Science Engineering student focused on building strong fundamentals in **Data Structures & Algorithms, Java, Backend Development, and SQL**.
+
+- 💻 Currently building projects and improving my problem-solving skills
+- 🌱 Exploring **Spring Boot & REST APIs**
+- 🎯 Preparing for **Software Development opportunities**
+- 🤝 Open to collaborating on interesting projects
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshaypatswal____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-patswal-ba88b6249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarakshay39735@gmail.com) 
 
